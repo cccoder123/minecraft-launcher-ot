@@ -6,5 +6,5 @@ Comment=Minecraft Launcher
 Exec=minecraft-launcher-ot
 Path=minecraft-launcher-ot
 Icon=${SNAP}/meta/gui/minecraft-launcher-ot.svg
-Terminal=false
+Terminal=true
 Categories=Game;Application;
