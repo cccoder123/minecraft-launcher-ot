@@ -6,7 +6,7 @@ description: |
         "Other Linux version of the Minecraft Launcher for Minecraft: Java Edition"
 confinement: strict
 base: core18
-icon: /snap
+icon: /home/user/snap/gui/Minecraft-base
 
 parts:
   minecraft-launcher:
